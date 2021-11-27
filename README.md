@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="#"><img width="100%"  src="https://assets.hongkiat.com/uploads/programming-jokes/joke-coffee-code.jpg" height="390px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Batool 🐥 </h1>
+<p align="center">
+<a href="#"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/768px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" height="300px"/></a>
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Batool </h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Jordan.</h3>
 
 
