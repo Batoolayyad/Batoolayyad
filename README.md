@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<a href="#"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/768px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" height="300px"/></a>
+<a href="#"><img width="65%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/768px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" height="270px"/></a>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Batool </h1>
+<p align="center"> <h1  align="center"> <img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Batool</h1> </p>
 <h3 align="center">I'm a passionate Full Stack Developer from Jordan.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋 About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://socket.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/socket-io-logo.png" alt="socket-io" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png" width="55" height="40"/> </a> 
 </p>
 
 
